@@ -1,4 +1,4 @@
-0-current_working_directory\n
+0-current_working_directory
 10-back
 11-lists
 12-file_type
